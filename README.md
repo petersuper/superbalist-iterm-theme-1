@@ -2,7 +2,7 @@
 
 A colour scheme for iTerm 2 based upon the Superbalist CI 
 
-![full-screen](https://raw.githubusercontent.com/slwen/facebook-iterm-theme/master/previews/full-screen.jpg)
+![full-screen](https://user-images.githubusercontent.com/23187723/66993421-d9865e80-f0cb-11e9-88c2-8de1f4d53e45.png)
 *Full screen*
 
 ## Installation
